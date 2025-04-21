@@ -12,3 +12,6 @@ Submission details:
 Deadline **Tuesday - 22 April** submission format: provide your flutter code file(s) in you personal repo.
 
 Good luck 🚀 and happy coding! 🧑‍💻
+
+![coffee GIF](https://github.com/shumukh-ar/Second-Flutter-Group-B/blob/shumukh/task2/assets/background.gif?raw=true)
+
